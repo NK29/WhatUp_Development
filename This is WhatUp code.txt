@@ -4,3 +4,4 @@ Author: NK29
 2. Chat screen code
 3. Last seen code
 4. Attachments (Image, Video, Audio) code
+5. hiding the last seen
